@@ -59,6 +59,8 @@ namespace JapaneseAtWork
             new ItemCollection("れ","re","r"),
             new ItemCollection("ろ","ro","r"),
             new ItemCollection("わ","wa","w"),
+            new ItemCollection("ゐ","wi","w"),
+            new ItemCollection("ゑ","we","w"),
             new ItemCollection("を","wo","w"),
             new ItemCollection("ん","n","n")
         };
@@ -113,6 +115,8 @@ namespace JapaneseAtWork
             new ItemCollection("レ","re","r"),
             new ItemCollection("ロ","ro","r"),
             new ItemCollection("ワ","wa","w"),
+            new ItemCollection("ヰ","wi","w"),
+            new ItemCollection("ヱ","we","w"),
             new ItemCollection("ヲ","wo","w"),
             new ItemCollection("ン","n","n")
         };
